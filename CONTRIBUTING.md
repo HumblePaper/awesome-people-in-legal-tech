@@ -14,9 +14,6 @@ Thank you for suggesting an entry. These rules apply to every list in this famil
 
 ## What belongs here
 
-
-## What belongs here
-
 - Public professional information only.
 - A person is listed with a role at an organisation and a link to a public profile or an organisation page.
 - Founders and leaders of the firms and tools in [awesome-ai-native-law-firms](https://github.com/HumblePaper/awesome-ai-native-law-firms) and [awesome-contract-negotiation](https://github.com/HumblePaper/awesome-contract-negotiation) are always welcome.
