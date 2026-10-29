@@ -14,9 +14,8 @@ Thank you for suggesting an entry. These rules apply to every list in this famil
 
 ## What belongs here
 
-- Public professional information only.
-- A person is listed with a role at an organisation and a link to a public profile or an organisation page.
-- Founders and leaders of the firms and tools in [awesome-ai-native-law-firms](https://github.com/HumblePaper/awesome-ai-native-law-firms) and [awesome-contract-negotiation](https://github.com/HumblePaper/awesome-contract-negotiation) are always welcome.
-- No contact details: no email addresses, phone numbers or home addresses.
-- One line per person.
-- To remove yourself, open an issue or a pull request. It will be merged without question.
+Every line is public professional information and nothing else: a role at an organisation and a link to a public profile or an organisation page. Founders and leaders of the firms and tools in [awesome-ai-native-law-firms](https://github.com/HumblePaper/awesome-ai-native-law-firms) and [awesome-contract-negotiation](https://github.com/HumblePaper/awesome-contract-negotiation) are always welcome, as are the investors, reporters, researchers and in-house lawyers who shape the field.
+
+No contact details of any kind, meaning no email addresses, phone numbers or home addresses. One line per person.
+
+If you would rather not be listed, open an issue or a pull request and it will be merged without question.

@@ -8,9 +8,9 @@
 
 Sponsored by [Humblepaper](https://humblepaper.co).
 
-> The people building and shaping legal technology: founders, leaders, investors, reporters, researchers and the in-house voices, cross-referenced with the firms, tools and benchmarks lists.
+> The people building and shaping legal technology, from founders and investors to the reporters, researchers and in-house lawyers who follow it closely, cross-referenced with the firms, tools and benchmarks lists.
 
-Every entry is public professional information only: a role at an organisation, one sentence from a public bio, and a link to a public profile or organisation page. One line per person. Founders and leaders of legal research, legal data, practice management and litigation AI companies, and of the open legal data projects, have their own section. Every founder or leader of a firm listed in awesome-ai-native-law-firms, or of a tool listed in awesome-contract-negotiation, appears here. Each line links to the section where the organisation is listed. Both lists are under Related lists.
+Every line is public professional information: a role at an organisation, a sentence or two from a public bio, and a link to a public profile or an organisation page. Founders and leaders of legal research, legal data, practice management and litigation AI companies, and of the open legal data projects, have a section of their own. Every founder or leader of a firm in awesome-ai-native-law-firms, or of a tool in awesome-contract-negotiation, appears here with a link to the section where their organisation is listed. Both lists are under Related lists.
 
 ## Contents
 
@@ -391,8 +391,8 @@ Every entry is public professional information only: a role at an organisation, 
 
 ## Contributing
 
-One person per pull request, one line per entry, alphabetical by surname within its section. Public professional information only. See [CONTRIBUTING.md](CONTRIBUTING.md).
+One person per pull request and one line per entry, in alphabetical order by surname within its section. Public professional information only. [CONTRIBUTING.md](CONTRIBUTING.md) has the rest.
 
 ## About
 
-Maintained by Humblepaper, Inc. Everything here is listed because a reader told us it was useful or we used it ourselves. CC0: copy freely.
+Humblepaper, Inc. maintains this list. A person is here because their work is public and worth knowing about, and nothing more is implied by a listing. The list is CC0, so copy it freely.
