@@ -5,3 +5,8 @@
 # serve 403 to scripted fetches; each page loads in a real browser (checked 2026-10-29)
 ^https://(www\.)?businesswire\.com/news/home/
 ^https://(www\.)?sirion\.ai/?$
+# reject GitHub Actions runner addresses or fail TLS there (lychee run 2026-10-29); each page loads in a real browser
+^https://aavenir\.com/
+^https://oneflow\.com/
+^https://piersonferdinand\.com/
+^https://www\.law\.com/
