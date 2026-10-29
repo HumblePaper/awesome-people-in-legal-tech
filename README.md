@@ -8,9 +8,9 @@
 
 Sponsored by [Humblepaper](https://humblepaper.co).
 
-> The people building and shaping legal technology, from founders and investors to the reporters, researchers and in-house lawyers who follow it closely, cross-referenced with the firms, tools and benchmarks lists.
+> A list of the people who build, fund, report on and study legal technology, each with a public profile and a place in the firms, tools and benchmarks lists.
 
-Every line is public professional information: a role at an organisation, a sentence or two from a public bio, and a link to a public profile or an organisation page. Founders and leaders of legal research, legal data, practice management and litigation AI companies, and of the open legal data projects, have a section of their own. Every founder or leader of a firm in awesome-ai-native-law-firms, or of a tool in awesome-contract-negotiation, appears here with a link to the section where their organisation is listed. Both lists are under Related lists.
+This is a list of the people who build, fund, report on and study legal technology, compiled from public professional information only and maintained as a companion to the firms, tools and benchmarks lists. Each line carries a role at an organisation, a sentence or two from a public bio and a link to a public profile or an organisation page. Founders and leaders of legal research, legal data, practice management and litigation AI companies, and of the open legal data projects, have a section of their own. Every founder or leader of an organisation in the sibling lists has a line here that links back to the section where that organisation appears.
 
 ## Contents
 
@@ -391,8 +391,8 @@ Every line is public professional information: a role at an organisation, a sent
 
 ## Contributing
 
-One person per pull request and one line per entry, in alphabetical order by surname within its section. Public professional information only. [CONTRIBUTING.md](CONTRIBUTING.md) has the rest.
+One person per pull request and one line per entry, in alphabetical order by surname within its section. Public professional information only. [CONTRIBUTING.md](CONTRIBUTING.md) sets out the rest.
 
 ## About
 
-Humblepaper, Inc. maintains this list. A person is here because their work is public and worth knowing about, and nothing more is implied by a listing. The list is CC0, so copy it freely.
+Humblepaper, Inc. maintains this list from public professional information only. A listing implies no relationship with the person and no endorsement by them. Anyone may ask to be removed, and the request will be honoured without question. The list is released under CC0 and may be copied freely.
