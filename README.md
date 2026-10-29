@@ -8,9 +8,9 @@
 
 Sponsored by [Humblepaper](https://humblepaper.co).
 
-> A list of the people who build, fund, report on and study legal technology, each with a public profile and a place in the firms, tools and benchmarks lists.
+> The people who build, fund, report on and study legal technology, with a public profile for each and a link to wherever their organisation appears in the sibling lists.
 
-This is a list of the people who build, fund, report on and study legal technology, compiled from public professional information only and maintained as a companion to the firms, tools and benchmarks lists. Each line carries a role at an organisation, a sentence or two from a public bio and a link to a public profile or an organisation page. Founders and leaders of legal research, legal data, practice management and litigation AI companies, and of the open legal data projects, have a section of their own. Every founder or leader of an organisation in the sibling lists has a line here that links back to the section where that organisation appears.
+Public professional information only: a role, a sentence or two from a bio that is already public, and a link to a profile or an organisation page. The list is a companion to the firms, tools and benchmarks lists, so every founder or leader of an organisation listed there has a line here that links back. Founders of legal research, legal data, practice management and litigation AI companies, and the people behind the open legal data projects, have a section of their own.
 
 ## Contents
 
@@ -391,8 +391,8 @@ This is a list of the people who build, fund, report on and study legal technolo
 
 ## Contributing
 
-One person per pull request and one line per entry, in alphabetical order by surname within its section. Public professional information only. [CONTRIBUTING.md](CONTRIBUTING.md) sets out the rest.
+One person per pull request. Keep to public professional information and to alphabetical order by surname. [CONTRIBUTING.md](CONTRIBUTING.md) covers removals and the rest.
 
 ## About
 
-Humblepaper, Inc. maintains this list from public professional information only. A listing implies no relationship with the person and no endorsement by them. Anyone may ask to be removed, and the request will be honoured without question. The list is released under CC0 and may be copied freely.
+Humblepaper, Inc. maintains this list. Being listed implies no relationship with us and no endorsement by the person. If you would rather not appear, say so in an issue and the line comes out, no questions asked. CC0.
