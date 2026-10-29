@@ -10,3 +10,7 @@
 ^https://oneflow\.com/
 ^https://piersonferdinand\.com/
 ^https://www\.law\.com/
+# reject GitHub Actions runner addresses with 403 or fail HTTP/2 there (lychee run 2026-10-29); each page loads in a real browser
+^https://jusmundi\.com/
+^https://www\.clio\.com/
+^https://www\.lexisnexis\.com/
