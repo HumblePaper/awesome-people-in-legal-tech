@@ -1,11 +1,5 @@
 # LinkedIn returns 999 or 403 to scripted fetches; profiles load in a real browser (checked 2026-10-29)
 ^https://([a-z]+\.)?linkedin\.com/
-# not yet public
-^https://github\.com/HumblePaper/awesome-ai-native-law-firms
-# not yet public
-^https://github\.com/HumblePaper/awesome-contract-negotiation
-# not yet public
-^https://github\.com/HumblePaper/contract-room-ontology$
 # badge host resets lychee connections here (local lychee 0.24.2, 2026-10-29) while curl returns 200
 ^https://awesome\.re/
 # serve 403 to scripted fetches; each page loads in a real browser (checked 2026-10-29)
